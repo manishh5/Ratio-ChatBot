@@ -15,7 +15,6 @@ class ChatBot:
             "what can you do": "I can help you with a variety of things. Try asking me something!",
             "thanks": "You're welcome!",
             "default": "I didn't understand that.",
-            "why are you": "bhaad mai jaa.",
             "how old are you": "I'm ageless!",
             "where are you from": "I'm from the internet!",
             "what do you do": "I'm a chatbot, I chat with users like you!",
